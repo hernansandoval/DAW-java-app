@@ -1,0 +1,5 @@
+com\mycompany\practica3\resources\JakartaEE11Resource.class
+servlets\Consulta.class
+servlets\NewServlet.class
+com\mycompany\practica3\JakartaRestConfiguration.class
+servlets\Connexio.class
