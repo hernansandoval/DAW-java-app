@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"servlets","l":"Connexio"},{"p":"servlets","l":"Consulta"},{"p":"com.mycompany.practica3.resources","l":"JakartaEE11Resource"},{"p":"com.mycompany.practica3","l":"JakartaRestConfiguration"},{"p":"servlets","l":"NewServlet"}];updateSearchResults();
